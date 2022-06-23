@@ -1,0 +1,2 @@
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/osx.11.0-x64/publish/encryptStringMac.pdb
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/osx.11.0-x64/publish/encryptStringMac

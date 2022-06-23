@@ -1,0 +1,15 @@
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/encryptStringMac
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/encryptStringMac.deps.json
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/encryptStringMac.runtimeconfig.json
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/encryptStringMac.dll
+/Users/philip/Source/encryptStringMac/bin/Debug/net6.0/encryptStringMac.pdb
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.csproj.AssemblyReference.cache
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.AssemblyInfoInputs.cache
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.AssemblyInfo.cs
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.csproj.CoreCompileInputs.cache
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.dll
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/refint/encryptStringMac.dll
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.pdb
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/encryptStringMac.genruntimeconfig.cache
+/Users/philip/Source/encryptStringMac/obj/Debug/net6.0/ref/encryptStringMac.dll
